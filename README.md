@@ -1,1 +1,1 @@
-Script to complete this blog post: fletcher.io/hackers-guide-to-fundraising/
+Script to complete this blog post: http://fletcher.io/hackers-guide-to-fundraising/
