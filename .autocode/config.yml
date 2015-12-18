@@ -1,0 +1,7 @@
+name: fletchrichman/al_investors
+author:
+  name: Fletcher Richman
+  email: frichman3@gmail.com
+  url: 'http://fletcher.io'
+copyright: 2015 Fletcher Richman
+description: 'Given a list of angellist profiles, find their investors!'
